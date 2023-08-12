@@ -21,7 +21,7 @@ hobbies: ["Chess", "Basketball", "Digital Art", "Music"]
 ```
 [![Resume Badge](https://img.shields.io/badge/-Resume-blue?style=flat-square&logoColor=white&link=https://github.com/scakki/resume/blob/main/Shivayogi%20Resume.pdf)](https://github.com/scakki/resume/blob/main/Shivayogi%20Resume.pdf)
 [![Gmail Badge](https://img.shields.io/badge/-sakki@mtu.edu-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakki@mtu.edu)](mailto:sakki@mtu.edu)
-[![Linkedin Badge](https://img.shields.io/badge/-Shivayogi_Akki-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivayogi-akki/)](https://www.linkedin.com/in/shivayogi-akki/)  
+[![Linkedin Badge](https://img.shields.io/badge/-Shivayogi_Akki-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivayogi-akki//)](https://www.linkedin.com/in/shivayogi-akki/)  
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 <h3> :open_file_folder: Projects </h3> 
