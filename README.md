@@ -5,7 +5,14 @@
 
 ---
 
-<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Age-24-blue" />
+  <img src="https://img.shields.io/badge/Lives-Houghton%20Michigan-blue" />
+  <img src="https://img.shields.io/badge/Languages-English-blue" />
+</p>
+
 
 ```yaml
 name: Shivayogi Akki
@@ -21,6 +28,17 @@ education:
     "Visvesvaraya Technological University",
     "Bengaluru, India"
   ]
+
+```
+
+ <p align="center">
+<img src="https://img.shields.io/badge/Age-26-blue" />
+  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
+</p>
+
+```yaml
 
 fields_of_interests:
   [
