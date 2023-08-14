@@ -39,9 +39,16 @@ hobbies: ["Chess", "Basketball", "Digital Art", "Music"]
 
 <h3> Publictions and Presentations </h3> 
 
-- IEEE/RSJ IROS 2023 | Late Breaking Results | [![Link Badge](https://img.shields.io/badge/-Link-grey?style=flat-square&logoColor=white&link=https://github.com/scakki/legged-robot-locomotion/blob/main/Benchmarking_Model_Predictive_Control_and_Reinforcement_Learning_for_Legged_Robot_Locomotion.pdf)](https://github.com/scakki/legged-robot-locomotion/blob/main/Benchmarking_Model_Predictive_Control_and_Reinforcement_Learning_for_Legged_Robot_Locomotion.pdf)
+- IEEE/RSJ IROS 2023 | Late Breaking Results [![Link Badge](https://img.shields.io/badge/-Link-grey?style=flat-square&logoColor=white&link=https://github.com/scakki/legged-robot-locomotion/blob/main/Benchmarking_Model_Predictive_Control_and_Reinforcement_Learning_for_Legged_Robot_Locomotion.pdf)](https://github.com/scakki/legged-robot-locomotion/blob/main/Benchmarking_Model_Predictive_Control_and_Reinforcement_Learning_for_Legged_Robot_Locomotion.pdf)
 
 		"Benchmarking Model Predictive Control and Reinforcement Learning for Legged Robot Locomotion"
 
+- IRJET June 2021 [![Link Badge](https://img.shields.io/badge/-Link-grey?style=flat-square&logoColor=white&link=https://www.irjet.net/archives/V8/i6/IRJET-V8I6276.pdf)](https://www.irjet.net/archives/V8/i6/IRJET-V8I6276.pdf)
+
+  		"Impacts of Design Parameters on Aerodynamic and Aeroacoustics Properties of a Propeller"
+
+- IJRTE November 2019 [![Link Badge](https://img.shields.io/badge/-Link-grey?style=flat-square&logoColor=white&link=https://www.researchgate.net/profile/Dr-Nanjundeswaraswamy-2/publication/339927014_Process_Parameters_of_Ultrasonic_Machining/links/5e6c4cce92851c6ba700b55e/Process-Parameters-of-Ultrasonic-Machining.pdf)](https://www.researchgate.net/profile/Dr-Nanjundeswaraswamy-2/publication/339927014_Process_Parameters_of_Ultrasonic_Machining/links/5e6c4cce92851c6ba700b55e/Process-Parameters-of-Ultrasonic-Machining.pdf)
+
+  		"Process Parameters of Ultrasonic Machining"
 
 
