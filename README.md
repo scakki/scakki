@@ -24,7 +24,7 @@ hobbies: ["Chess", "Basketball", "Digital Art", "Music"]
 [![Linkedin Badge](https://img.shields.io/badge/-Shivayogi_Akki-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivayogi-akki//)](https://www.linkedin.com/in/shivayogi-akki/)  
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-<h3>  Projects </h3> 
+<!-- <h3>  Projects </h3> 
 
 <div>
   <p align="center">
@@ -35,7 +35,7 @@ hobbies: ["Chess", "Basketball", "Digital Art", "Music"]
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Ahmed-Hossam&theme=tokyonight" alt="GitHub Stats" />
     	</a>
   </p>
-</div>
+</div> -->
 
 <h3> Publictions and Presentations </h3> 
 
