@@ -39,7 +39,7 @@ hobbies: ["Chess", "Basketball", "Digital Art", "Music"]
 
 <h3> Publictions and Presentations </h3> 
 
-- IEEE/RSJ IROS 2023 | Late Breaking Results [![Link Badge](https://img.shields.io/badge/-Link-grey?style=flat-square&logoColor=white&link=https://github.com/scakki/legged-robot-locomotion/blob/main/Benchmarking_Model_Predictive_Control_and_Reinforcement_Learning_for_Legged_Robot_Locomotion.pdf)](https://github.com/scakki/legged-robot-locomotion/blob/main/Benchmarking_Model_Predictive_Control_and_Reinforcement_Learning_for_Legged_Robot_Locomotion.pdf)
+- IEEE/RSJ IROS 2023 | Late Breaking Results [![Link Badge](https://img.shields.io/badge/-Link-grey?style=flat-square&logoColor=white&link=https://github.com/scakki/legged-robot-locomotion/blob/main/Go1_IROS2023_Poster_Final.pdf)](https://github.com/scakki/legged-robot-locomotion/blob/main/Go1_IROS2023_Poster_Final.pdf)
 
 		"Benchmarking Model Predictive Control and Reinforcement Learning for Legged Robot Locomotion"
 
