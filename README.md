@@ -8,6 +8,11 @@ located_in: Houghton, Michigan
 current_job: Graduate Student
 education:
   [
+    "Robotics with Machine Learning",
+    "PhD Student in Electrical Engineering",
+    "Michigan Technological University",
+    "Houghton, Michigan"
+
     "Master's in Mechatronics, Robotics and Automation Engineering",
     "Michigan Technological University",
     "Houghton, Michigan"
