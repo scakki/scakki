@@ -44,10 +44,6 @@ hobbies: ["Chess", "Basketball", "Digital Art", "Music"]
 
 <h3> Publictions and Presentations </h3> 
 
-- IEEE/RSJ IROS 2023 | Late Breaking Results [![Link Badge](https://img.shields.io/badge/-Link-grey?style=flat-square&logoColor=white&link=https://github.com/scakki/legged-robot-locomotion/blob/main/Go1_IROS2023_Poster_Final.pdf)](https://github.com/scakki/legged-robot-locomotion/blob/main/Go1_IROS2023_Poster_Final.pdf)
-
-		"Benchmarking Model Predictive Control and Reinforcement Learning for Legged Robot Locomotion"
-
 - IRJET June 2021 [![Link Badge](https://img.shields.io/badge/-Link-grey?style=flat-square&logoColor=white&link=https://www.irjet.net/archives/V8/i6/IRJET-V8I6276.pdf)](https://www.irjet.net/archives/V8/i6/IRJET-V8I6276.pdf)
 
   		"Impacts of Design Parameters on Aerodynamic and Aeroacoustics Properties of a Propeller"
