@@ -5,10 +5,10 @@
 ```yaml
 name: Shivayogi Akki
 located_in: Houghton, Michigan
-current_job: Graduate Student
+current_job: PhD Student
 education:
   [
-    "Robotics with Machine Learning",
+    "Robotics with specialization in Reinforcement Learning",
     "PhD Student in Electrical Engineering",
     "Michigan Technological University",
     "Houghton, Michigan"
