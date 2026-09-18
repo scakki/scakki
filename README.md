@@ -2,7 +2,7 @@
 
 **Ph.D. candidate in Electrical and Computer Engineering · Binghamton University, SUNY**
 
-Robotics, Locomotion, and Applied Control (RoLAC) Lab · Johnson City, New York
+[Robotics, Locomotion, and Applied Control (RoLAC) Lab](https://github.com/RoLACLab) · Johnson City, New York
 
 I work on reinforcement learning and control for legged and humanoid robots: learning efficient gaits, keeping robots moving through joint faults, and studying locomotion in Earth and lunar gravity.
 
@@ -15,14 +15,6 @@ I work on reinforcement learning and control for legged and humanoid robots: lea
 - **Autonomous navigation and robotic security · January–March 2025:** integrated VLM–RL control, LiDAR, RealSense/YOLO perception, and A* planning on the physical Unitree Go1. Evaluation across 10 randomized trials reported **92% task completion** and a **101 s** mean completion time. Also evaluated susceptibility to prompt-injection attacks without changing VLM weights or training data.
 - **MPC vs. reinforcement learning · August 2023–March 2024 · NSF-funded:** benchmarked PPO and predictive-sampling MPC under matched conditions in MuJoCo. PPO achieved **41% lower mechanical cost of transport** and **0.25–0.33 s faster disturbance recovery**. [Benchmark repository](https://github.com/RoLACLab/mpc-and-rl-benchmark)
 - **Hardware-in-the-loop industrial assembly · March–April 2023:** connected an Allen-Bradley PLC to FANUC RoboGuide over EtherNet/IP for a simulated car-door assembly cell with **three robots and two conveyor lines**. Developed RSLogix 5000 ladder logic and a FactoryTalk HMI for production control and bidirectional PLC–robot communication.
-
-## RoLAC on GitHub
-
-I contribute to research in [@RoLACLab](https://github.com/RoLACLab). Explore my [organization activity](https://github.com/scakki?org=RoLACLab) and the [lab's repositories](https://github.com/orgs/RoLACLab/repositories).
-
-[![Recent public RoLACLab activity by scakki](assets/rolac-activity.svg)](https://github.com/scakki?org=RoLACLab)
-
-This card shows my recent public lab events, refreshed daily. Private repository details stay private; GitHub's contribution graph can include anonymized private contributions.
 
 ## Tools I work with
 
